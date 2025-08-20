@@ -1,5 +1,5 @@
 <p align="center">
-  # Chomage
+**Chomage**
 </p>
 
 <p align="center">
