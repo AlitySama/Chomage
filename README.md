@@ -1,5 +1,5 @@
 <p align="center">
-<strong>Chomage</strong>
+<strong>SKR</strong>
 </p>
 
 <p align="center">
